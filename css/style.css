@@ -3,6 +3,14 @@ body {
   font-family: "Montserrat", sans-serif;
 }
 
+/* site header css */
+
+.site-header {
+  width: 75%;
+  margin: 0 auto;
+  font-size: 18px;
+}
+
 .search-field {
   border: none;
   border-radius: 50px;
@@ -43,13 +51,14 @@ body {
 
 .single-product {
   padding: 10px;
-  transition: 0.6s;
+  transition: 1s;
 }
 
 .single-product:hover {
   box-shadow: 4px 4px 7px gray;
   border-radius: 10px;
-  border: 1px solid cyan;
+  border: 1px solid rgb(0, 255, 42);
+  transform: rotateY(10deg);
 }
 
 .product-image {
