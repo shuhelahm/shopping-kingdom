@@ -249,7 +249,7 @@ const showProducts = (products) => {
   }
 };
 
-// get product id and price from api
+
 let count = 0;
 const addToCart = (id, price) => {
   count = count + 1;
