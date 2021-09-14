@@ -1,7 +1,7 @@
 /* common css */
 body {
   overflow-x: hidden;
-  font-family: "Montserrat", sans-serif;
+  font-family: "robot", sans-serif;
 }
 
 /* site header css */
@@ -62,7 +62,7 @@ body {
   background-color: rgba(122, 190, 190, 0.2);
   padding: 10px;
   transition: 1s;
-  height: 500px;
+  height: 525px;
   margin: 10px;
 }
 
